@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@800&display=swap");
+body {
+  margin: 0; }
+
+.intro header {
+  text-align: center;
+  padding-top: 200px;
+  background-color: #000000;
+  padding-bottom: 40px;
+  background-image: url("../img/speaker.svg"), url("../img/speaker.svg");
+  background-repeat: no-repeat, no-repeat;
+  background-position: 15% 25%, 85% 25%;
+  background-size: 100px; }
+.intro h1 {
+  color: #F4D80F;
+  font-family: "Kanit", sans-serif;
+  font-size: 10vw;
+  margin-bottom: 0; }
+.intro h2 {
+  color: #F4D80F;
+  font-family: "Kanit", sans-serif;
+  font-size: 5vw;
+  margin-top: 0;
+  margin-bottom: 0; }
+.intro .summary {
+  text-align: center;
+  background-color: #000000;
+  padding-bottom: 150px; }
+  .intro .summary p {
+    margin: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    color: #F4D80F;
+    font-family: "Verdana", sans-serif; }
+  .intro .summary a {
+    text-decoration: none;
+    color: #000000;
+    background-color: #F4D80F;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-right: 40px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    background-image: url("../img/download.svg");
+    background-repeat: no-repeat;
+    background-position: 85% 50%; }
+
+@media (min-width: 700px) {
+  .intro header {
+    text-align: center;
+    padding-top: 200px;
+    background-color: #000000;
+    padding-bottom: 40px;
+    background-image: url("../img/speaker.svg"), url("../img/speaker.svg");
+    background-repeat: no-repeat, no-repeat;
+    background-position: 15% 80%, 85% 80%;
+    background-size: 12%; }
+  .intro h1 {
+    font-size: 5vw;
+    margin-top: 0; }
+  .intro h2 {
+    font-size: 2.3vw; }
+  .intro .summary {
+    padding-top: 30px;
+    padding-bottom: 200px; }
+    .intro .summary p {
+      line-height: 30px;
+      margin: 0;
+      padding-left: 30%;
+      padding-right: 30%;
+      padding-bottom: 20px; } }
+
+/*# sourceMappingURL=style.css.map */
