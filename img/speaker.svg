@@ -1,11 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="196" height="273" viewBox="0 0 196 273">
-  <g id="Group_1" data-name="Group 1" transform="translate(-986.33 -399.81)">
-    <rect id="Rectangle_1" data-name="Rectangle 1" width="196" height="273" rx="13.53" transform="translate(986.33 399.81)" fill="#383838"/>
-    <circle id="Ellipse_1" data-name="Ellipse 1" cx="65.5" cy="65.5" r="65.5" transform="translate(1017.83 516.31)" fill="#282828"/>
-    <circle id="Ellipse_2" data-name="Ellipse 2" cx="28.5" cy="28.5" r="28.5" transform="translate(1055.83 434.31)" fill="#282828"/>
-    <circle id="Ellipse_3" data-name="Ellipse 3" cx="56" cy="56" r="56" transform="translate(1026.83 525.31)"/>
-    <circle id="Ellipse_4" data-name="Ellipse 4" cx="42" cy="42" r="42" transform="translate(1040.83 539.31)" fill="#f4d80f"/>
-    <circle id="Ellipse_5" data-name="Ellipse 5" cx="12.5" cy="12.5" r="12.5" transform="translate(1070.83 569.31)"/>
-    <circle id="Ellipse_6" data-name="Ellipse 6" cx="12.5" cy="12.5" r="12.5" transform="translate(1071.83 450.31)"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 196 273">
+<defs>
+<style>
+.cls-1{fill:#383838;}
+.cls-2{fill:#282828;}
+.cls-3{fill:#f4d80f;}
+#movingPartBig{opacity: 0%};
+</style>
+</defs>
+
+<defs>
+	<style>
+
+		#movingPartBig{
+			-webkit-animation: speakerMovement 0.3s linear infinite;
+		}
+
+		@-webkit-keyframes speakerMovement{
+			0%{
+				opacity: 0%;
+			}
+      50%{
+				opacity: 100%;
+			}
+      100%{
+				opacity: 0%;
+			}
+		}
+		
+	</style>
+</defs>
+
+<g id="Laag_2" data-name="Laag 2">
+<g id="Laag_1-2" data-name="Laag 1">
+<rect class="cls-1" width="196" height="273" rx="13.53"/>
+<circle class="cls-2" cx="97" cy="182" r="65.5"/>
+<circle class="cls-2" cx="98" cy="63" r="28.5"/>
+<g id="movingPart">
+<circle cx="96.5" cy="181.5" r="56"/>
+<circle class="cls-3" cx="96.5" cy="181.5" r="42"/>
+<circle cx="97" cy="182" r="12.5"/>
+</g>
+<circle cx="98" cy="63" r="12.5"/>
+<g id="movingPartBig">
+<circle cx="97" cy="182" r="65.5"/>
+<circle class="cls-3" cx="97" cy="182" r="49.12"/>
+<circle cx="97.58" cy="182.58" r="14.62"/>
+</g>
+</g>
+</g>
 </svg>
