@@ -134,6 +134,10 @@ p {
                padding-left: 15px;
                padding-right: 15px;
           }
+          a {
+               text-decoration: none;
+               color: $white;
+          }
      }
      .benefits {
           background-color: $purple;
@@ -149,6 +153,30 @@ p {
                color: $white;
                padding-left: 15px;
                padding-right: 15px;
+          }
+     }
+     .requirements {
+          background-color: $black;
+          background-image: url("img/soundwave.gif");
+          background-repeat: no-repeat;
+          background-position: left;
+          padding-top: 1em;
+          padding-bottom: 1em;
+          h3 {
+               color: $pink;
+               margin-top: 0;
+               padding-left: 15px;
+               padding-right: 15px;
+          }
+          p {
+               color: $white;
+               padding-left: 15px;
+               padding-right: 15px;
+               margin: 0;
+          }
+          a {
+               text-decoration: none;
+               color: $white;
           }
      }
 }
@@ -236,6 +264,17 @@ p {
                padding-left: 20%;
                padding-right: 20%;
                padding-top: 0;
+               h3 {
+                    font-size: 2vw;
+                    margin-bottom: 0.5em;
+                    padding-top: 0;
+               }
+          }
+          .requirements {
+               padding-bottom: 11em;
+               padding-top: 11em;
+               padding-left: 50px;
+               padding-right: 40%;
                h3 {
                     font-size: 2vw;
                     margin-bottom: 0.5em;
