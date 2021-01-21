@@ -1,0 +1,321 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 478 478">
+<defs>
+<style>
+.cls-1{fill:#3ab231;}
+.cls-2{fill:#00e8f7;}
+.cls-3{fill:#ea6c2f;}
+.cls-4{fill:#a6b0b7;}
+.cls-5{fill:#7756c4;}
+.cls-6{fill:#deb116;}
+.cls-7{fill:#0294b4;}
+.cls-8{fill:#d5e13a;}
+.cls-12,.cls-14,.cls-9{stroke:#fff;stroke-miterlimit:10;}
+.cls-10{font-size:7px;}
+.cls-10,.cls-11,.cls-13,.cls-14{fill:#fff;}
+.cls-10,.cls-11{font-family:Verdana-Bold, Verdana;font-weight:700;}
+.cls-11{font-size:15.43px;}
+.cls-12{fill:#07080c;}
+</style>
+</defs>
+
+<defs>
+<style>
+
+     .cls-1{
+          -webkit-animation: colorChange1 2s linear infinite;
+     }
+
+     @-webkit-keyframes colorChange1{
+		0%{
+			fill: #3AB231;
+		}
+          25%{
+			fill: #EA6C2F;
+		}
+          50%{
+			fill: #00E8F7;
+		}
+          75%{
+               fill: #D5E13A;
+          }
+          100%{
+               fill: #3AB231;
+          }
+	}
+
+     .cls-2{
+          -webkit-animation: colorChange2 3s linear infinite;
+     }
+
+     @-webkit-keyframes colorChange2{
+		0%{
+			fill: #00E8F7;
+		}
+          25%{
+			fill: #00E8F7;
+		}
+          50%{
+			fill: #A6B0B7;
+		}
+          75%{
+               fill: #DEB116;
+          }
+          100%{
+               fill: #00E8F7;
+          }
+	}
+
+     .cls-3{
+          -webkit-animation: colorChange3 4s linear infinite;
+     }
+
+     @-webkit-keyframes colorChange3{
+		0%{
+			fill: #EA6C2F;
+		}
+          25%{
+			fill: #0294B4;
+		}
+          50%{
+			fill: #DEB116;
+		}
+          75%{
+               fill: #D5E13A;
+          }
+          100%{
+               fill: #EA6C2F;
+          }
+	}
+
+     .cls-4{
+          -webkit-animation: colorChange4 5s linear infinite;
+     }
+
+     @-webkit-keyframes colorChange4{
+		0%{
+			fill: #A6B0B7;
+		}
+          25%{
+			fill: #3AB231;
+		}
+          50%{
+			fill: #0294B4;
+		}
+          75%{
+               fill: #00E8F7;
+          }
+          100%{
+               fill: #A6B0B7;
+          }
+	}
+
+     .cls-5{
+          -webkit-animation: colorChange5 4s linear infinite;
+     }
+
+     @-webkit-keyframes colorChange5{
+		0%{
+			fill: #7756C4;
+		}
+          25%{
+			fill: #D5E13A;
+		}
+          50%{
+			fill: #EA6C2F;
+		}
+          75%{
+               fill: #3AB231;
+          }
+          100%{
+               fill: #7756C4;
+          }
+	}
+
+     .cls-6{
+          -webkit-animation: colorChange6 3s linear infinite;
+     }
+
+     @-webkit-keyframes colorChange6{
+		0%{
+			fill: #DEB116;
+		}
+          25%{
+			fill: #A6B0B7;
+		}
+          50%{
+			fill: #00E8F7;
+		}
+          75%{
+               fill: #7756C4;
+          }
+          100%{
+               fill: #DEB116;
+          }
+	}
+
+     .cls-7{
+          -webkit-animation: colorChange7 2s linear infinite;
+     }
+
+     @-webkit-keyframes colorChange7{
+		0%{
+			fill: #0294B4;
+		}
+          25%{
+			fill: #EA6C2F;
+		}
+          50%{
+			fill: #3AB231;
+		}
+          75%{
+               fill: #D5E13A;
+          }
+          100%{
+               fill: #0294B4;
+          }
+	}
+
+     .cls-8{
+          -webkit-animation: colorChange8 5s linear infinite;
+     }
+
+     @-webkit-keyframes colorChange8{
+		0%{
+			fill: #D5E13A;
+		}
+          25%{
+			fill: #7756C4;
+		}
+          50%{
+			fill: #A6B0B7;
+		}
+          75%{
+               fill: #3AB231;
+          }
+          100%{
+               fill: #D5E13A;
+          }
+	}
+
+</style>
+</defs>
+
+<g id="Laag_2" data-name="Laag 2">
+<g id="Laag_1-2" data-name="Laag 1">
+<rect width="478" height="478" rx="3.5"/>
+<g id="greenGroup">
+<rect class="cls-1" x="267" y="74" width="41" height="41" rx="2.49"/>
+<rect class="cls-1" x="170" y="122" width="41" height="41" rx="2.49"/>
+<rect class="cls-1" x="267" y="170" width="41" height="41" rx="2.49"/>
+<rect class="cls-1" x="267" y="218" width="41" height="41" rx="2.49"/>
+<rect class="cls-1" x="170" y="314.93" width="41" height="41" rx="2.49"/>
+<rect class="cls-1" x="315" y="314.93" width="41" height="41" rx="2.49"/>
+<rect class="cls-1" x="26" y="363" width="41" height="41" rx="2.49"/>
+<rect class="cls-1" x="26" y="411" width="41" height="41" rx="2.49"/>
+</g>
+<g id="lightBlueGroup">
+<rect class="cls-2" x="362" y="74" width="41" height="41" rx="2.49"/>
+<rect class="cls-2" x="122" y="122" width="41" height="41" rx="2.49"/>
+<rect class="cls-2" x="170" y="170" width="41" height="41" rx="2.49"/>
+<rect class="cls-2" x="170" y="218" width="41" height="41" rx="2.49"/>
+<rect class="cls-2" x="362" y="266" width="41" height="41" rx="2.49"/>
+<rect class="cls-2" x="122" y="314.93" width="41" height="41" rx="2.49"/>
+<rect class="cls-2" x="74" y="363" width="41" height="41" rx="2.49"/>
+<rect class="cls-2" x="74" y="411" width="41" height="41" rx="2.49"/>
+</g>
+<g id="redGroup">
+<rect class="cls-3" x="74" y="74" width="41" height="41" rx="2.49"/>
+<rect class="cls-3" x="74" y="122" width="41" height="41" rx="2.49"/>
+<rect class="cls-3" x="74" y="170" width="41" height="41" rx="2.49"/>
+<rect class="cls-3" x="74" y="218" width="41" height="41" rx="2.49"/>
+<rect class="cls-3" x="267" y="266" width="41" height="41" rx="2.49"/>
+<rect class="cls-3" x="267" y="314.93" width="41" height="41" rx="2.49"/>
+<rect class="cls-3" x="122" y="363" width="41" height="41" rx="2.49"/>
+<rect class="cls-3" x="122" y="411" width="41" height="41" rx="2.49"/>
+</g>
+<g id="purpleGroup">
+<rect class="cls-4" x="315" y="74" width="41" height="41" rx="2.49"/>
+<rect class="cls-4" x="218" y="122" width="41" height="41" rx="2.49"/>
+<rect class="cls-4" x="315" y="170" width="41" height="41" rx="2.49"/>
+<rect class="cls-4" x="315" y="218" width="41" height="41" rx="2.49"/>
+<rect class="cls-4" x="218" y="266" width="41" height="41" rx="2.49"/>
+<rect class="cls-4" x="315" y="266" width="41" height="41" rx="2.49"/>
+<rect class="cls-4" x="218" y="314.93" width="41" height="41" rx="2.49"/>
+<rect class="cls-4" x="170" y="363" width="41" height="41" rx="2.49"/>
+<rect class="cls-4" x="170" y="411" width="41" height="41" rx="2.49"/>
+</g>
+<rect class="cls-5" x="170" y="74" width="41" height="41" rx="2.49"/>
+<rect class="cls-5" x="315" y="122" width="41" height="41" rx="2.49"/>
+<rect class="cls-5" x="362" y="170" width="41" height="41" rx="2.49"/>
+<rect class="cls-5" x="362" y="218" width="41" height="41" rx="2.49"/>
+<rect class="cls-5" x="170" y="266" width="41" height="41" rx="2.49"/>
+<rect class="cls-5" x="218" y="363" width="41" height="41" rx="2.49"/>
+<rect class="cls-5" x="218" y="411" width="41" height="41" rx="2.49"/>
+<g id="orangeGroup">
+<rect class="cls-6" x="218" y="74" width="41" height="41" rx="2.49"/>
+<rect class="cls-6" x="26" y="122" width="41" height="41" rx="2.49"/>
+<rect class="cls-6" x="218" y="170" width="41" height="41" rx="2.49"/>
+<rect class="cls-6" x="218" y="218" width="41" height="41" rx="2.49"/>
+<rect class="cls-6" x="74" y="314.93" width="41" height="41" rx="2.49"/>
+<rect class="cls-6" x="267" y="363" width="41" height="41" rx="2.49"/>
+<rect class="cls-6" x="267" y="411" width="41" height="41" rx="2.49"/>
+</g>
+<g id="blueGroup">
+<rect class="cls-7" x="26" y="74" width="41" height="41" rx="2.49"/>
+<rect class="cls-7" x="267" y="122" width="41" height="41" rx="2.49"/>
+<rect class="cls-7" x="26" y="170" width="41" height="41" rx="2.49"/>
+<rect class="cls-7" x="26" y="218" width="41" height="41" rx="2.49"/>
+<rect class="cls-7" x="362" y="314.93" width="41" height="41" rx="2.49"/>
+<rect class="cls-7" x="315" y="363" width="41" height="41" rx="2.49"/>
+<rect class="cls-7" x="315" y="411" width="41" height="41" rx="2.49"/>
+</g>
+<g id="yellowGroup">
+<rect class="cls-8" x="122" y="74" width="41" height="41" rx="2.49"/>
+<rect class="cls-8" x="362" y="122" width="41" height="41" rx="2.49"/>
+<rect class="cls-8" x="122" y="170" width="41" height="41" rx="2.49"/>
+<rect class="cls-8" x="122" y="218" width="41" height="41" rx="2.49"/>
+<rect class="cls-8" x="26" y="266" width="41" height="41" rx="2.49"/>
+<rect class="cls-8" x="74" y="266" width="41" height="41" rx="2.49"/>
+<rect class="cls-8" x="122" y="266" width="41" height="41" rx="2.49"/>
+<rect class="cls-8" x="26" y="314.93" width="41" height="41" rx="2.49"/>
+<rect class="cls-8" x="362" y="363" width="41" height="41" rx="2.49"/>
+<rect class="cls-8" x="362" y="411" width="41" height="41" rx="2.49"/>
+</g>
+<rect class="cls-9" x="409.67" y="411.17" width="41" height="41" rx="2.49"/>
+<text class="cls-10" transform="translate(421.07 425.75)">Stop<tspan x="0.44" y="8.4">Solo</tspan><tspan x="-0.8" y="16.8">Mute</tspan></text>
+<rect class="cls-9" x="409.67" y="363.17" width="41" height="41" rx="2.49"/>
+<text class="cls-11" transform="translate(425.36 389.32) scale(0.84 1)">&gt;</text>
+<rect class="cls-9" x="410.5" y="314.5" width="41" height="41" rx="2.49"/>
+<text class="cls-11" transform="translate(426.19 340.65) scale(0.84 1)">&gt;</text>
+<rect class="cls-9" x="410.5" y="266.5" width="41" height="41" rx="2.49"/>
+<text class="cls-11" transform="translate(426.19 292.65) scale(0.84 1)">&gt;</text>
+<rect class="cls-9" x="410.5" y="218.5" width="41" height="41" rx="2.49"/>
+<text class="cls-11" transform="translate(426.19 244.65) scale(0.84 1)">&gt;</text>
+<rect class="cls-9" x="410.5" y="170.5" width="41" height="41" rx="2.49"/>
+<text class="cls-11" transform="translate(426.19 196.65) scale(0.84 1)">&gt;</text>
+<rect class="cls-9" x="410.5" y="122.5" width="41" height="41" rx="2.49"/>
+<text class="cls-11" transform="translate(426.19 148.65) scale(0.84 1)">&gt;</text>
+<rect class="cls-9" x="410.5" y="74.5" width="41" height="41" rx="2.49"/>
+<text class="cls-11" transform="translate(426.19 100.65) scale(0.84 1)">&gt;</text>
+<rect class="cls-12" x="362" y="26" width="41" height="41" rx="2.49"/>
+<text class="cls-10" transform="translate(373.19 48.66)">User</text>
+<rect class="cls-12" x="315" y="26" width="41" height="41" rx="2.49"/>
+<text class="cls-10" transform="translate(326.13 48.66)">Keys</text>
+<rect class="cls-12" x="267" y="26" width="41" height="41" rx="2.49"/>
+<text class="cls-10" transform="translate(274.1 48.66)">Drums</text>
+<rect class="cls-12" x="218" y="26" width="41" height="41" rx="2.49"/>
+<text class="cls-10" transform="translate(223.37 48.66)">Session</text>
+<rect class="cls-12" x="170" y="26" width="41" height="41" rx="2.49"/>
+<polygon class="cls-13" points="197.02 46.71 187.13 41 187.13 52.43 197.02 46.71"/>
+<rect class="cls-12" x="122" y="26" width="41" height="41" rx="2.49"/>
+<polygon class="cls-13" points="136.84 46.71 146.74 41 146.74 52.43 136.84 46.71"/>
+<rect class="cls-12" x="74" y="26" width="41" height="41" rx="2.49"/>
+<polygon class="cls-13" points="95 51.66 89.29 41.77 100.71 41.77 95 51.66"/>
+<rect class="cls-12" x="26" y="26" width="41" height="41" rx="2.49"/>
+<polygon class="cls-13" points="46.79 41.77 52.5 51.66 41.07 51.66 46.79 41.77"/>
+<line class="cls-14" x1="269" y1="16" x2="315" y2="16"/>
+<line class="cls-14" x1="354" y1="16.5" x2="400" y2="16.5"/>
+<text class="cls-10" transform="translate(319.7 18.36)">Custom</text>
+</g>
+</g>
+</svg>
